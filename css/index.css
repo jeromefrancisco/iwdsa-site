@@ -22,7 +22,7 @@ a:hover{
   color: #5FC536;
 }
 
-.fa-pencil, .fa-users, .fa-code{
+.fa-pencil, .fa-users, .fa-code, .fa-user{
   color: black;
   font-size: 75px;
   display: block;
@@ -253,4 +253,16 @@ textarea{
   color: black;
 }
 
-/* #5FC536 */
+/* EBOARDS PAGE */
+.txtEboard{
+  margin-top: 150px;
+  color: white;
+}
+
+figcaption{
+  color: white;
+}
+
+.member{
+  padding: 20px;
+}
